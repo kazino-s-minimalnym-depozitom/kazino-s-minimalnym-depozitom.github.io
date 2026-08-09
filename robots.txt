@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-s-minimalnym-depozitom.github.io
+Sitemap: https://kazino-s-minimalnym-depozitom.github.io/sitemap.xml
